@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "upload",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\imwilll\\Desktop\\frontend\\amplify\\backend\\api\\upload\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 90,
+      "apiKeyExpirationDate": "2022-09-21T15:37:29.080Z",
+      "keyDescription": "demo"
+    }
+  }
+}
