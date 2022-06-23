@@ -20,6 +20,12 @@
           "deploymentBucketName": "amplify-amplifyfb3505401aeb4-staging-134811-deployment",
           "s3Key": "amplify-builds/S3Trigger4cb8043d-5a757543436c71434d41-build.zip"
         }
+      },
+      "storage": {
+        "frontend69bab50d": {
+          "bucketName": "csv-transition",
+          "region": "us-east-1"
+        }
       }
     }
   }
