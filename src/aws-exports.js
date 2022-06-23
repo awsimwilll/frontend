@@ -28,7 +28,7 @@ const awsmobile = {
     "aws_appsync_region": "us-east-1",
     "aws_appsync_authenticationType": "API_KEY",
     "aws_appsync_apiKey": "da2-iddxm65e3ncbvpazr3mgduk7hi",
-    "aws_user_files_s3_bucket": "csv-transition",
+    "aws_user_files_s3_bucket": "csv-transition134811-staging",
     "aws_user_files_s3_bucket_region": "us-east-1"
 };
 
