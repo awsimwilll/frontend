@@ -44,5 +44,19 @@
         }
       }
     }
+  },
+  "function": {
+    "S3Trigger4cb8043d": {
+      "service": "Lambda",
+      "providerPlugin": "awscloudformation",
+      "build": true
+    }
+  },
+  "storage": {
+    "csvfile": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }

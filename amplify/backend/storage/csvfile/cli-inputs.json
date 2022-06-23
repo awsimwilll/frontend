@@ -1,0 +1,12 @@
+{
+  "resourceName": "csvfile",
+  "policyUUID": "1c0e4754",
+  "bucketName": "csv-transition",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
