@@ -1,6 +1,6 @@
 {
   "resourceName": "csvfile",
-  "policyUUID": "1c0e4754",
+  "policyUUID": "6736a0f2",
   "bucketName": "csv-transition",
   "storageAccess": "auth",
   "guestAccess": [],
